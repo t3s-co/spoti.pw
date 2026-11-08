@@ -1,1 +1,1 @@
-{ Filter = { Bundles = ( "app.cyan4458.xigua5915" ); }; }
+{ Filter = { Bundles = ( "com.spotify.client" ); }; }
